@@ -7,7 +7,7 @@ $(function(){
 		if (b*(-1) > 0) {
 			b = 300;
 		}else{
-			b = -300;
+			b = -600;
 		}
 		ithis.animate({
 			top:b*(-1)+"px"
